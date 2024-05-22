@@ -11,8 +11,8 @@ This course is designed to give you a solid foundation in the most popular shell
 
 ## Scenarios
 
-|   Index | Name                                             | Difficulty   | URL                                                                  |
-|---------|--------------------------------------------------|--------------|----------------------------------------------------------------------|
+|   Index | Name                                            | Difficulty   | URL                                                                  |
+|---------|-------------------------------------------------|--------------|----------------------------------------------------------------------|
 |      01 | 📖 Hello World, Bash!                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/153893'>Start Lab</a> |
 |      02 | 📖 Working with Shell Variables                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/153894'>Start Lab</a> |
 |      03 | 📖 Passing Arguments to the Script               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/153895'>Start Lab</a> |
