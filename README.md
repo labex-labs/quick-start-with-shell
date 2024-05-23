@@ -11,7 +11,7 @@ This course is designed to give you a solid foundation in the most popular shell
 
 ## Scenarios
 
-|   Index | Name                                            | Difficulty   | URL                                                                  |
+|   Index | Name                                            | Difficulty   | Practice                                                             |
 |---------|-------------------------------------------------|--------------|----------------------------------------------------------------------|
 |      01 | 📖 Hello World, Bash!                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/153893'>Start Lab</a> |
 |      02 | 📖 Working with Shell Variables                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/153894'>Start Lab</a> |
@@ -27,4 +27,9 @@ This course is designed to give you a solid foundation in the most popular shell
 |      12 | 📖 Bash Trap Command                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/153904'>Start Lab</a> |
 |      13 | 📖 File System Operations in Shell               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/153905'>Start Lab</a> |
 |      14 | 📖 Mastering Shell Pipelines for Data Processing | ★☆☆          | <a target='_blank' href='https://labex.io/labs/153906'>Start Lab</a> |
+
+## More
+
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Linux Free Tutorials](https://github.com/labex-labs/linux-free-tutorials)
 
