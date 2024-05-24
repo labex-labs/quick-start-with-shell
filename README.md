@@ -1,6 +1,6 @@
 # Quick Start with Shell
 
-![Quick Start with Shell](https://cover-creator.labex.io/quick-start-with-shell.png)
+![Quick Start with Shell](https://cover-creator.appbot.io/quick-start-with-shell.png)
 
 This course is designed to give you a solid foundation in the most popular shell used in Linux, the Bash (Bourne Again Shell). You will learn how to use the shell to perform basic operations, such as file management and text processing.
 
