@@ -30,7 +30,7 @@ This course is designed to give you a solid foundation in the most popular shell
 
 ## More
 
-- 🔗 [Linux Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Linux Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Linux Free Tutorials](https://github.com/labex-labs/linux-free-tutorials)
+- 🔗 [DevOps Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [DevOps Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [DevOps Free Tutorials](https://github.com/labex-labs/devops-free-tutorials)
 
