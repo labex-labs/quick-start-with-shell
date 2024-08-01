@@ -11,22 +11,22 @@ This course is designed to give you a solid foundation in the most popular shell
 
 ## Scenarios
 
-|   Index | Name                                            | Difficulty   | Practice                                                             |
-|---------|-------------------------------------------------|--------------|----------------------------------------------------------------------|
-|      01 | 📖 Hello World, Bash!                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/153893'>Start Lab</a> |
-|      02 | 📖 Working with Shell Variables                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/153894'>Start Lab</a> |
-|      03 | 📖 Passing Arguments to the Script               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/153895'>Start Lab</a> |
-|      04 | 📖 Shell Programming Arrays                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/153896'>Start Lab</a> |
-|      05 | 📖 Arithmetic Operations in Shell Programming    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/153897'>Start Lab</a> |
-|      06 | 📖 Basic String Operations                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/153898'>Start Lab</a> |
-|      07 | 📖 Conditional Statements in Shell Programming   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/153899'>Start Lab</a> |
-|      08 | 📖 Mastering Bash Scripting Loops                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/153900'>Start Lab</a> |
-|      09 | 📖 Comparing Arrays in Shell Scripting           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/153901'>Start Lab</a> |
-|      10 | 📖 Shell Programming Functions                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/153902'>Start Lab</a> |
-|      11 | 📖 Special Variables in Shell Scripting          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/153903'>Start Lab</a> |
-|      12 | 📖 Bash Trap Command                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/153904'>Start Lab</a> |
-|      13 | 📖 File System Operations in Shell               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/153905'>Start Lab</a> |
-|      14 | 📖 Mastering Shell Pipelines for Data Processing | ★☆☆          | <a target='_blank' href='https://labex.io/labs/153906'>Start Lab</a> |
+|   Index | Name                                          | Difficulty   | Practice                                                             |
+|---------|-----------------------------------------------|--------------|----------------------------------------------------------------------|
+|      01 | 📖 Hello World, Bash!                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/385381'>Start Lab</a> |
+|      02 | 📖 Working with Shell Variables                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/385382'>Start Lab</a> |
+|      03 | 📖 Passing Arguments to the Script             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/385383'>Start Lab</a> |
+|      04 | 📖 Shell Arrays                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/385384'>Start Lab</a> |
+|      05 | 📖 Arithmetic Operations in Shell Programming  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/385385'>Start Lab</a> |
+|      06 | 📖 Basic String Operations                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/385386'>Start Lab</a> |
+|      07 | 📖 Conditional Statements in Shell Programming | ★☆☆          | <a target='_blank' href='https://labex.io/labs/385387'>Start Lab</a> |
+|      08 | 📖 Bash Scripting Loops                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/385388'>Start Lab</a> |
+|      09 | 📖 Comparing Arrays in Shell Scripting         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/385389'>Start Lab</a> |
+|      10 | 📖 Shell Functions                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/385390'>Start Lab</a> |
+|      11 | 📖 Special Variables in Shell Scripting        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/385391'>Start Lab</a> |
+|      12 | 📖 Bash Trap Command                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/385392'>Start Lab</a> |
+|      13 | 📖 File System Operations in Shell             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/385393'>Start Lab</a> |
+|      14 | 📖 Shell Pipelines for Data Processing         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/385394'>Start Lab</a> |
 
 ## More
 
