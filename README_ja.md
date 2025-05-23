@@ -33,28 +33,28 @@ LabEx は、コーディングとテクノロジーに特化したインタラ�
 
 |   インデックス | 名前                                  | 難易度   | 練習                                                                                                                    |
 |----------------|---------------------------------------|----------|-------------------------------------------------------------------------------------------------------------------------|
-|             01 | 📖 こんにちは、Bash！                 | ★★☆      | <a target='_blank' href='https://labex.io/ja/tutorials/linux-hello-bash-388809'>ラボを開始</a>                          |
-|             02 | 📖 シェル変数の操作                   | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/shell-working-with-shell-variables-388810'>ラボを開始</a>        |
-|             03 | 🎯 海賊の宝を見つけよう               | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/shell-finding-the-pirate-s-treasure-388807'>チャレンジを開始</a> |
-|             04 | 📖 スクリプトに引数を渡す             | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/shell-passing-arguments-to-the-script-388811'>ラボを開始</a>     |
-|             05 | 📖 シェル配列                         | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/shell-shell-arrays-388812'>ラボを開始</a>                        |
-|             06 | 🎯 星間貨物マニフェスト               | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/shell-interstellar-cargo-manifest-388869'>チャレンジを開始</a>   |
-|             07 | 📖 シェルにおける算術演算             | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/shell-arithmetic-operations-in-shell-388813'>ラボを開始</a>      |
-|             08 | 📖 基本的な文字列操作                 | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/shell-basic-string-operations-388814'>ラボを開始</a>             |
-|             09 | 📖 シェルにおける条件文               | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/linux-conditional-statements-in-shell-388815'>ラボを開始</a>     |
-|             10 | 🎯 天気アドバイスシステム             | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/shell-weather-advisory-system-388885'>チャレンジを開始</a>       |
-|             11 | 📖 Bash スクリプトのループ            | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/shell-bash-scripting-loops-388816'>ラボを開始</a>                |
-|             12 | 📖 シェルにおける配列の比較           | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/shell-comparing-arrays-in-shell-388817'>ラボを開始</a>           |
-|             13 | 📖 シェル関数                         | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/shell-shell-functions-388818'>ラボを開始</a>                     |
-|             14 | 🎯 四則演算電卓                       | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/shell-four-function-calculator-388893'>チャレンジを開始</a>      |
-|             15 | 📖 シェルにおける特殊変数             | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/shell-special-variables-in-shell-388819'>ラボを開始</a>          |
-|             16 | 📖 Bash の trap コマンド              | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/linux-bash-trap-command-388820'>ラボを開始</a>                   |
-|             17 | 📖 シェルにおけるファイルシステム操作 | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/shell-file-system-operations-in-shell-388821'>ラボを開始</a>     |
-|             18 | 🎯 ファイルシステムエクスプローラー   | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/shell-file-system-explorer-388898'>チャレンジを開始</a>          |
+|             01 | 📖 こんにちは、Bash！                 | 中級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-hello-bash-388809'>ラボを開始</a>                          |
+|             02 | 📖 シェル変数の操作                   | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/shell-working-with-shell-variables-388810'>ラボを開始</a>        |
+|             03 | 🎯 海賊の宝を見つけよう               | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/shell-finding-the-pirate-s-treasure-388807'>チャレンジを開始</a> |
+|             04 | 📖 スクリプトに引数を渡す             | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/shell-passing-arguments-to-the-script-388811'>ラボを開始</a>     |
+|             05 | 📖 シェル配列                         | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/shell-shell-arrays-388812'>ラボを開始</a>                        |
+|             06 | 🎯 星間貨物マニフェスト               | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/shell-interstellar-cargo-manifest-388869'>チャレンジを開始</a>   |
+|             07 | 📖 シェルにおける算術演算             | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/shell-arithmetic-operations-in-shell-388813'>ラボを開始</a>      |
+|             08 | 📖 基本的な文字列操作                 | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/shell-basic-string-operations-388814'>ラボを開始</a>             |
+|             09 | 📖 シェルにおける条件文               | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-conditional-statements-in-shell-388815'>ラボを開始</a>     |
+|             10 | 🎯 天気アドバイスシステム             | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/shell-weather-advisory-system-388885'>チャレンジを開始</a>       |
+|             11 | 📖 Bash スクリプトのループ            | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/shell-bash-scripting-loops-388816'>ラボを開始</a>                |
+|             12 | 📖 シェルにおける配列の比較           | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/shell-comparing-arrays-in-shell-388817'>ラボを開始</a>           |
+|             13 | 📖 シェル関数                         | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/shell-shell-functions-388818'>ラボを開始</a>                     |
+|             14 | 🎯 四則演算電卓                       | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/shell-four-function-calculator-388893'>チャレンジを開始</a>      |
+|             15 | 📖 シェルにおける特殊変数             | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/shell-special-variables-in-shell-388819'>ラボを開始</a>          |
+|             16 | 📖 Bash の trap コマンド              | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-bash-trap-command-388820'>ラボを開始</a>                   |
+|             17 | 📖 シェルにおけるファイルシステム操作 | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/shell-file-system-operations-in-shell-388821'>ラボを開始</a>     |
+|             18 | 🎯 ファイルシステムエクスプローラー   | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/shell-file-system-explorer-388898'>チャレンジを開始</a>          |
 
 ## その他
 
-- 🔗 [Linux Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Linux Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Linux Free Tutorials](https://github.com/labex-labs/linux-free-tutorials)
+- 🔗 [Linux プログラミングコース](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Linux プログラミングプロジェクト](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Linux 無料チュートリアル](https://github.com/labex-labs/linux-free-tutorials)
 
