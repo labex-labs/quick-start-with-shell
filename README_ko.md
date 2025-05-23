@@ -33,28 +33,28 @@ LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입�
 
 |   인덱스 | 이름                            | 난이도   | 연습                                                                                                               |
 |----------|---------------------------------|----------|--------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 Hello, Bash! (Bash 시작하기) | ★★☆      | <a target='_blank' href='https://labex.io/ko/tutorials/linux-hello-bash-388809'>실습 시작</a>                      |
-|       02 | 📖 셸 변수 다루기               | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/shell-working-with-shell-variables-388810'>실습 시작</a>    |
-|       03 | 🎯 해적 보물 찾기               | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/shell-finding-the-pirate-s-treasure-388807'>도전 시작</a>   |
-|       04 | 📖 스크립트에 인수 전달하기     | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/shell-passing-arguments-to-the-script-388811'>실습 시작</a> |
-|       05 | 📖 셸 배열                      | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/shell-shell-arrays-388812'>실습 시작</a>                    |
-|       06 | 🎯 성간 화물 목록               | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/shell-interstellar-cargo-manifest-388869'>도전 시작</a>     |
-|       07 | 📖 Shell 에서의 산술 연산       | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/shell-arithmetic-operations-in-shell-388813'>실습 시작</a>  |
-|       08 | 📖 기본 문자열 연산             | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/shell-basic-string-operations-388814'>실습 시작</a>         |
-|       09 | 📖 셸에서 조건문 사용하기       | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/linux-conditional-statements-in-shell-388815'>실습 시작</a> |
-|       10 | 🎯 기상 예보 시스템             | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/shell-weather-advisory-system-388885'>도전 시작</a>         |
-|       11 | 📖 Bash 스크립팅 루프           | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/shell-bash-scripting-loops-388816'>실습 시작</a>            |
-|       12 | 📖 Shell 에서 배열 비교하기     | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/shell-comparing-arrays-in-shell-388817'>실습 시작</a>       |
-|       13 | 📖 셸 함수                      | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/shell-shell-functions-388818'>실습 시작</a>                 |
-|       14 | 🎯 사칙 연산 계산기             | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/shell-four-function-calculator-388893'>도전 시작</a>        |
-|       15 | 📖 셸 스크립트의 특수 변수      | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/shell-special-variables-in-shell-388819'>실습 시작</a>      |
-|       16 | 📖 Bash Trap 명령어             | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/linux-bash-trap-command-388820'>실습 시작</a>               |
-|       17 | 📖 셸에서 파일 시스템 작업      | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/shell-file-system-operations-in-shell-388821'>실습 시작</a> |
-|       18 | 🎯 파일 시스템 탐색기           | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/shell-file-system-explorer-388898'>도전 시작</a>            |
+|       01 | 📖 Hello, Bash! (Bash 시작하기) | 중급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-hello-bash-388809'>실습 시작</a>                      |
+|       02 | 📖 셸 변수 다루기               | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/shell-working-with-shell-variables-388810'>실습 시작</a>    |
+|       03 | 🎯 해적 보물 찾기               | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/shell-finding-the-pirate-s-treasure-388807'>도전 시작</a>   |
+|       04 | 📖 스크립트에 인수 전달하기     | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/shell-passing-arguments-to-the-script-388811'>실습 시작</a> |
+|       05 | 📖 셸 배열                      | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/shell-shell-arrays-388812'>실습 시작</a>                    |
+|       06 | 🎯 성간 화물 목록               | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/shell-interstellar-cargo-manifest-388869'>도전 시작</a>     |
+|       07 | 📖 Shell 에서의 산술 연산       | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/shell-arithmetic-operations-in-shell-388813'>실습 시작</a>  |
+|       08 | 📖 기본 문자열 연산             | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/shell-basic-string-operations-388814'>실습 시작</a>         |
+|       09 | 📖 셸에서 조건문 사용하기       | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-conditional-statements-in-shell-388815'>실습 시작</a> |
+|       10 | 🎯 기상 예보 시스템             | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/shell-weather-advisory-system-388885'>도전 시작</a>         |
+|       11 | 📖 Bash 스크립팅 루프           | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/shell-bash-scripting-loops-388816'>실습 시작</a>            |
+|       12 | 📖 Shell 에서 배열 비교하기     | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/shell-comparing-arrays-in-shell-388817'>실습 시작</a>       |
+|       13 | 📖 셸 함수                      | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/shell-shell-functions-388818'>실습 시작</a>                 |
+|       14 | 🎯 사칙 연산 계산기             | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/shell-four-function-calculator-388893'>도전 시작</a>        |
+|       15 | 📖 셸 스크립트의 특수 변수      | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/shell-special-variables-in-shell-388819'>실습 시작</a>      |
+|       16 | 📖 Bash Trap 명령어             | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-bash-trap-command-388820'>실습 시작</a>               |
+|       17 | 📖 셸에서 파일 시스템 작업      | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/shell-file-system-operations-in-shell-388821'>실습 시작</a> |
+|       18 | 🎯 파일 시스템 탐색기           | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/shell-file-system-explorer-388898'>도전 시작</a>            |
 
 ## 더 보기
 
-- 🔗 [Linux Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Linux Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Linux Free Tutorials](https://github.com/labex-labs/linux-free-tutorials)
+- 🔗 [Linux 프로그래밍 코스](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Linux 프로그래밍 프로젝트](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Linux 무료 튜토리얼](https://github.com/labex-labs/linux-free-tutorials)
 
