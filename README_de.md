@@ -33,28 +33,28 @@ Erfahren Sie mehr über [LabEx VM](https://support.labex.io/using-labex/virtual-
 
 |   Index | Name                                      | Schwierigkeit   | Übung                                                                                                                    |
 |---------|-------------------------------------------|-----------------|--------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 Hallo, Bash!                           | ★★☆             | <a target='_blank' href='https://labex.io/de/tutorials/linux-hello-bash-388809'>Labor Starten</a>                        |
-|      02 | 📖 Arbeiten mit Shell-Variablen           | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/shell-working-with-shell-variables-388810'>Labor Starten</a>      |
-|      03 | 🎯 Den Schatz des Piraten finden          | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/shell-finding-the-pirate-s-treasure-388807'>Challenge Starten</a> |
-|      04 | 📖 Übergabe von Argumenten an das Skript  | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/shell-passing-arguments-to-the-script-388811'>Labor Starten</a>   |
-|      05 | 📖 Shell-Arrays                           | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/shell-shell-arrays-388812'>Labor Starten</a>                      |
-|      06 | 🎯 Interstellares Frachtmanifest          | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/shell-interstellar-cargo-manifest-388869'>Challenge Starten</a>   |
-|      07 | 📖 Arithmetische Operationen in der Shell | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/shell-arithmetic-operations-in-shell-388813'>Labor Starten</a>    |
-|      08 | 📖 Grundlegende String-Operationen        | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/shell-basic-string-operations-388814'>Labor Starten</a>           |
-|      09 | 📖 Bedingte Anweisungen in der Shell      | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/linux-conditional-statements-in-shell-388815'>Labor Starten</a>   |
-|      10 | 🎯 Wetterberatungssystem                  | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/shell-weather-advisory-system-388885'>Challenge Starten</a>       |
-|      11 | 📖 Bash-Skripting-Schleifen               | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/shell-bash-scripting-loops-388816'>Labor Starten</a>              |
-|      12 | 📖 Vergleich von Arrays in der Shell      | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/shell-comparing-arrays-in-shell-388817'>Labor Starten</a>         |
-|      13 | 📖 Shell-Funktionen                       | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/shell-shell-functions-388818'>Labor Starten</a>                   |
-|      14 | 🎯 Vier-Funktions-Rechner                 | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/shell-four-function-calculator-388893'>Challenge Starten</a>      |
-|      15 | 📖 Spezielle Variablen in der Shell       | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/shell-special-variables-in-shell-388819'>Labor Starten</a>        |
-|      16 | 📖 Bash Trap-Befehl                       | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/linux-bash-trap-command-388820'>Labor Starten</a>                 |
-|      17 | 📖 Dateisystemoperationen in der Shell    | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/shell-file-system-operations-in-shell-388821'>Labor Starten</a>   |
-|      18 | 🎯 Dateisystem-Explorer                   | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/shell-file-system-explorer-388898'>Challenge Starten</a>          |
+|      01 | 📖 Hallo, Bash!                           | Fortgeschritten | <a target='_blank' href='https://labex.io/de/tutorials/linux-hello-bash-388809'>Labor Starten</a>                        |
+|      02 | 📖 Arbeiten mit Shell-Variablen           | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/shell-working-with-shell-variables-388810'>Labor Starten</a>      |
+|      03 | 🎯 Den Schatz des Piraten finden          | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/shell-finding-the-pirate-s-treasure-388807'>Challenge Starten</a> |
+|      04 | 📖 Übergabe von Argumenten an das Skript  | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/shell-passing-arguments-to-the-script-388811'>Labor Starten</a>   |
+|      05 | 📖 Shell-Arrays                           | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/shell-shell-arrays-388812'>Labor Starten</a>                      |
+|      06 | 🎯 Interstellares Frachtmanifest          | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/shell-interstellar-cargo-manifest-388869'>Challenge Starten</a>   |
+|      07 | 📖 Arithmetische Operationen in der Shell | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/shell-arithmetic-operations-in-shell-388813'>Labor Starten</a>    |
+|      08 | 📖 Grundlegende String-Operationen        | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/shell-basic-string-operations-388814'>Labor Starten</a>           |
+|      09 | 📖 Bedingte Anweisungen in der Shell      | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-conditional-statements-in-shell-388815'>Labor Starten</a>   |
+|      10 | 🎯 Wetterberatungssystem                  | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/shell-weather-advisory-system-388885'>Challenge Starten</a>       |
+|      11 | 📖 Bash-Skripting-Schleifen               | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/shell-bash-scripting-loops-388816'>Labor Starten</a>              |
+|      12 | 📖 Vergleich von Arrays in der Shell      | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/shell-comparing-arrays-in-shell-388817'>Labor Starten</a>         |
+|      13 | 📖 Shell-Funktionen                       | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/shell-shell-functions-388818'>Labor Starten</a>                   |
+|      14 | 🎯 Vier-Funktions-Rechner                 | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/shell-four-function-calculator-388893'>Challenge Starten</a>      |
+|      15 | 📖 Spezielle Variablen in der Shell       | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/shell-special-variables-in-shell-388819'>Labor Starten</a>        |
+|      16 | 📖 Bash Trap-Befehl                       | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-bash-trap-command-388820'>Labor Starten</a>                 |
+|      17 | 📖 Dateisystemoperationen in der Shell    | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/shell-file-system-operations-in-shell-388821'>Labor Starten</a>   |
+|      18 | 🎯 Dateisystem-Explorer                   | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/shell-file-system-explorer-388898'>Challenge Starten</a>          |
 
 ## Mehr
 
-- 🔗 [Linux Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Linux Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Linux Free Tutorials](https://github.com/labex-labs/linux-free-tutorials)
+- 🔗 [Linux Programmierungskurse](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Linux Programmierprojekte](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Linux Kostenlose Tutorials](https://github.com/labex-labs/linux-free-tutorials)
 
